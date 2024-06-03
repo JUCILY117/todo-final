@@ -29,7 +29,7 @@ const Testimonial = () => {
           <AiFillStar />
           <AiFillStar />
         </div>
-        <h2>Aniket</h2>
+        <h2>Aayu</h2>
       </div>
       <div className="testimonial-section-bottom">
         <img src={ProfilePic3} alt="" />
@@ -43,7 +43,7 @@ const Testimonial = () => {
           <AiFillStar />
           <AiFillStar />
         </div>
-        <h2>Anmol Pandhi</h2>
+        <h2>Anmol</h2>
       </div>
       <div className="testimonial-section-bottom">
         <img src={ProfilePic2} alt="" />
